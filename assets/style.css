@@ -1,0 +1,27 @@
+/* body {
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+} */
+/* 
+.text-bg {
+    color: #271074;
+} */
+
+#preview {
+    width: 500px;
+    max-height: 500px;
+    display: block;
+}
+
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
